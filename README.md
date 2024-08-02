@@ -12,6 +12,14 @@
 
 ![airbnb_newyork](https://github.com/user-attachments/assets/5a7c41fb-22df-43ae-82a5-f1468503b029)
 
+## Steps to performded
+* Import libraries.
+* Explores a Dataset
+* Explores a columns, rows, datatypes
+* Analysis a descriptive statistics
+* Handles missing values and perform a oulier handling techniques
+* Extracts insights from dataset through Analysis
+   
 ## Here's Finding
 * Private Room and Entire Home/Apt are the most frequently listed property types, with Entire Home/Apt being the most common in Manhattan.
 * Manhattan and Brooklyn account for about 80% of all Airbnb listings, while Queens has 14%, and Bronx and Staten Island each have 4%.
